@@ -3,6 +3,6 @@ INSERT INTO `items` (name, label) VALUES
 	('coeur', 'Coeur'),
 	('moelle', 'grammes de Moelle'),
 	('intestin', 'Intestin'),
-	('os', 'Os', '206'),
+	('os', 'Os'),
 	('organ_pooch', 'Corps humain')
 ;
