@@ -39,7 +39,7 @@ local function HarvestCerveau(source)
 
 	SetTimeout(5000, function()
 
-		if PlayersHarvestingCerveau[source] == true then
+		if PlayersHarvestingCerveau[source] == true then 
 
 			local xPlayer  = ESX.GetPlayerFromId(source)
 
